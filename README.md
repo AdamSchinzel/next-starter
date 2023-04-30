@@ -1,4 +1,4 @@
-# Next.js starter
+# Next.js Starter
 
 ## Documentation
 
